@@ -25,9 +25,8 @@ Users can explore the data dynamically using filters such as **Country, Room Typ
 * MongoDB Atlas
 
 ## Streamlit Dashboard
-
-https://your-streamlit-dashboard.streamlit.app
+https://htreamlit-app-sampleairbnbws-anrdpwmmykxcaxuv22jtyk.streamlit.app/
 
 ## GitHub Repository
 
-https://github.com/your-username/your-repository
+[https://github.com/your-username/your-repository](https://github.com/Sujiwankit/HW_Streamlit-MongoDB-Sample_airbnb/tree/main)
