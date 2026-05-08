@@ -1,29 +1,26 @@
-# 🏝️ Airbnb Global Market Insights & Pricing Dashboard
+Airbnb Global Market Insights & Pricing Dashboard
 
-Interactive Dashboard สำหรับวิเคราะห์ข้อมูล Airbnb Global Listings จาก MongoDB Atlas โดยพัฒนาด้วย Streamlit + Plotly + PyMongo
+This project is an interactive Airbnb analytics dashboard developed using Streamlit, Plotly, Pandas, and MongoDB Atlas. The dashboard provides global insights into Airbnb listings, including pricing trends, room type distribution, property analysis, customer ratings, and geographic visualization through an interactive world map.
 
-Dashboard นี้ช่วยให้สามารถสำรวจข้อมูลที่พัก Airbnb ทั่วโลกผ่าน Interactive Filters เช่น Country, Room Type, Property Type และ Price Range พร้อม Visualization สำหรับวิเคราะห์แนวโน้มราคา คะแนนรีวิว ประเภทห้องพัก และการกระจายตัวของ Listings บนแผนที่โลกแบบ Interactive
+Users can explore the data dynamically using filters such as Country, Room Type, Property Type, Price Range, and Rating. The dashboard also includes KPI summary cards, advanced visual analytics, and listing detail tables for deeper exploration.
 
-## Features
-
-* Interactive Sidebar Filters
-* KPI Summary Cards
-* Top Countries Analysis
-* Room Type Distribution
-* Global Airbnb Map Visualization
-* MongoDB Atlas Integration
-* Responsive Streamlit Dashboard
-
-##Technologies
-
-* Python
-* Streamlit
-* Plotly Express
-* MongoDB Atlas
-* PyMongo
-* Pandas
-
-##Streamlit Dashboard
+Features
+Interactive Sidebar Filters
+KPI Summary Dashboard
+Global Airbnb Map Visualization
+Price & Rating Analysis
+Room Type Distribution
+Property Type Insights
+MongoDB Atlas Integration
+Responsive Streamlit Interface
+Technologies
+Python
+Streamlit
+Plotly Express
+Pandas
+PyMongo
+MongoDB Atlas
+Streamlit Dashboard
 
 [https://your-streamlit-app.streamlit.app](https://htreamlit-app-sampleairbnbws-anrdpwmmykxcaxuv22jtyk.streamlit.app/)
 
